@@ -1,5 +1,5 @@
 data_ready: false
 data_stream: CE09OSSM-RID27-04-DOSTAD000-recovered_host-dosta_abcdjm_dcl_instrument_recovered
-last_request: '2022-01-21T01:53:15.712829Z'
+last_request: '2022-01-21T17:35:02.262131Z'
 response: https://raw.githubusercontent.com/ooi-data/CE09OSSM-RID27-04-DOSTAD000-recovered_host-dosta_abcdjm_dcl_instrument_recovered/main/history/response.json
-status: failed
+status: pending
